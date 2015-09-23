@@ -45,6 +45,8 @@ li {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+	text-shadow: 2px 2px 4px #000000;
+
 }
 
 table{
