@@ -66,7 +66,7 @@ table{
 }
 
 table tr td:empty {
-    width:100px;
+    width: 100px;
 }
 
 td{
