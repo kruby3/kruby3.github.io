@@ -67,7 +67,6 @@ table tr td:empty {
 }
 
 td{
-	vertical-align: center;
 	width: 50%;
 }
 
